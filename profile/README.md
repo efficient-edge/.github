@@ -1,6 +1,6 @@
 Thanks for your interests!
 
-__Efficient-Edge-AI__ is a toolkit to help deep learning engineers/researchers to _train/optimize/deploy/test_ their pre-trained Pytorch/TensorFlow models with advanced inference engines (TensorRT, ONNX, TorchScript) on Nvidia Triton server automatically. Specifically, we probide some bash scripts to _train/optimize/deploy/test_ your models in fewer lines of code and execute them in a specific docker container. Thus, there is no need to worry dependency related issues. 😆
+__Efficient-Edge-AI__ is a toolkit to help deep learning engineers/researchers to _train/optimize/deploy/test_ their pre-trained Pytorch/TensorFlow models with advanced inference engines (TensorRT, ONNX, TorchScript) on Nvidia Triton server automatically. Specifically, we probide some bash scripts to _train/optimize/deploy/test_ your models in fewer lines of code in a docker container. Thus, there is no need to worry dependency related issues. 😆
 
 <div align=center><img src="https://github.com/efficient-edge/.github/blob/master/media/architecture.png"></div>
 
